@@ -1,5 +1,3 @@
-package myJava;
-
 public class MainPage {
 
 	
