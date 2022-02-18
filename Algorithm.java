@@ -1,5 +1,3 @@
-package myJava;
-
 public class Algorithm{
 
 	int odd = 0;
